@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniellim922
-- 👀 I’m interested in entrepreneurship
-- 🌱 I’m currently learning JS & Python
+- 👀 Full Stack Engineer and Entrepreneur!
+- 🌱 I’m currently learning TS
 - 💞️ I’m looking to working & learning from others
 - 📫 How to reach me daniellim922@gmail.com
 
